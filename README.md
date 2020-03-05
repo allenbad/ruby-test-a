@@ -4,7 +4,7 @@
 
 You may NOT use Google. These questions are to test how you are progressing through the material, and to give you some feedback about where you might improve. Get through as many of these as you can. If you don’t get through all of them it’s ok - they are designed to take longer than the available time. If you can’t remember a bit of code, write the pseudo-code that represents how you would write your Ruby code.
 
-## How to Access Code File
+## How to Access Code on Local Machine
 
 ### On Github To Fork and Clone
 
@@ -22,7 +22,7 @@ You may NOT use Google. These questions are to test how you are progressing thro
 
 6. Run this command `git checkout -b [your-name]-solutions`
 
-7. Start solving the questions
+7. Start solving the questions in `index.rb`
 
 ### From the Command Line Once You're Finished
 
