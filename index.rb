@@ -1,5 +1,3 @@
-# You may NOT use Google. These questions are to test how you are progressing through the material, and to give you some feedback about where you might improve. Get through as many of these as you can. If you don’t get through all of them it’s ok - they are designed to take longer than the available time. If you can’t remember a bit of code, write the pseudo-code that represents how you would write your Ruby code.
-
 # Question 1: What is a variable?
 
 # Question 2: What Ruby method can you use to make a loop from an array?
