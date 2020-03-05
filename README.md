@@ -36,4 +36,4 @@ You may NOT use Google. These questions are to test how you are progressing thro
 
 ### On Github To Make a Pull Request
 
-12. Click on the green button `Pull request` to make a pull request so I can review your code
+12. Click on the green button `Make pull request` to make a pull request so I can review your code
